@@ -5,3 +5,4 @@ rm: cannot remove ‘new’: Is a directory
 MyFile.txt  new  xyz
 [root@ip-172-31-29-78 ec2-user]# rm dir new
 rm: cannot remove ‘dir’: No such file or directory
+added new comment
